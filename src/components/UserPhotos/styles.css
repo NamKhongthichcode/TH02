@@ -1,0 +1,59 @@
+
+/* frame of all info of photo */
+.infoPhoto{
+    margin-Bottom: 24px;
+    padding : 16px
+}
+/* photo date */
+.date {
+    color : #757575;
+    margin-top: "8px"
+}
+
+.boxofimage {
+    display: flex;
+    justify-Content: center;
+    align-Items: center;
+}
+.image {
+    width: 50%;
+    max-Width: 600px;
+    border-Radius: 8px;
+
+}
+
+/* Divider margin */
+.comment-divider {
+    margin: 12px 0;
+  }
+
+/* Title for comments */
+.comment-title {
+font-size: 1rem;
+font-weight: bold;
+}
+
+/* Comment wrapper */
+.comment-wrapper {
+margin-bottom: 8px;
+}
+
+/* Link style */
+.comment-link {
+text-decoration: none;
+color: #1976d2;
+font-weight: bold;
+}
+
+/* Body text for comment */
+.comment-body {
+font-size: 0.875rem; /* body2 */
+}
+
+/* No comments text */
+.no-comments {
+margin-top: 8px;
+font-style: italic;
+font-size: 0.875rem; /* body2 */
+}
+  

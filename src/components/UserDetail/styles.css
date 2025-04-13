@@ -1,0 +1,27 @@
+.profile-container {
+    display: flex;
+    justify-content: center; /* căn giữa ngang */
+    margin-top: 40px;
+  }
+  
+  .profile-box {
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    padding: 24px;
+    max-width: 400px;
+    width: 100%;
+    background-color: #fdfdfd;
+  }
+  .photoOfUser{
+    display: flex;
+    justify-content: center; /* căn giữa ngang */
+    margin-top: 20px;
+  }
+  .photoLink {
+    text-decoration: none;
+    color: inherit;
+    font-weight: bold;
+    padding: 24px;
+  }
+  
+  
